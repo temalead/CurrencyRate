@@ -17,7 +17,7 @@ import java.io.StringReader;
 import java.util.ArrayList;
 import java.util.List;
 
-public class CurrencyParserXml implements CurrencyParser{
+public class CurrencyRateParserXml implements CurrencyParser{
     @Override
     public List<CurrencyRate> parse(String ratesAsString) {
         List<CurrencyRate> rates=new ArrayList<>();
