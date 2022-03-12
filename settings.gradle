@@ -1,2 +1,4 @@
 rootProject.name = 'CurrencyRate'
+include 'currency_client'
+include 'rate'
 
