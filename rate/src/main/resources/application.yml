@@ -1,0 +1,6 @@
+app:
+  cache:
+    size: 15
+
+cbr:
+  url: "https://cbr.ru/scripts/XML_daily.asp"\
